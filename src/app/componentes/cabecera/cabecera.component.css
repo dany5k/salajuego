@@ -1,0 +1,22 @@
+.panel {
+    background-image: url('/src/assets/imagenes/fondo1.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+p {
+    color: rgb(255, 94, 0);
+    text-shadow: 1px 2px 2px rgb(0, 0, 0), 2px 1px 2px rgb(0, 0, 0);
+}
+a {
+    background-color: rgb(136, 4, 4);
+    border-radius: 84px; 
+    padding: 4px 4px 4px 4px;
+    
+    color: rgb(255, 153, 0);
+    text-shadow: 1px 1px 4px rgb(0, 0, 0), 1px 1px 3px rgb(0, 0, 0);
+    box-shadow: 1px 1px 4px rgb(0, 0, 0), 1px 1px 3px rgb(0, 0, 0);
+}
+a:hover {
+    background-color: rgb(124, 25, 1);
+}
