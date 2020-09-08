@@ -1,5 +1,5 @@
 .panel {
-    background-image: url('/src/assets/imagenes/fondo1.jpg');
+    background-image: url('/assets/imagenes/fondo1.jpg');
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
